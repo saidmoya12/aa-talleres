@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller2", "Taller2\Taller2.csproj", "{77CA9A31-A33D-4746-B005-CCD14450C4BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77CA9A31-A33D-4746-B005-CCD14450C4BC}.Debug|x86.ActiveCfg = Debug|x86
+		{77CA9A31-A33D-4746-B005-CCD14450C4BC}.Debug|x86.Build.0 = Debug|x86
+		{77CA9A31-A33D-4746-B005-CCD14450C4BC}.Release|x86.ActiveCfg = Release|x86
+		{77CA9A31-A33D-4746-B005-CCD14450C4BC}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
