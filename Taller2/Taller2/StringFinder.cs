@@ -28,7 +28,7 @@ namespace Taller2
 
 				if (match)
 				{
-					pMatch = i;
+					pMatch = i+1;
 					break;
 				}
 			}
